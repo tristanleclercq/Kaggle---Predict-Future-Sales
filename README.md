@@ -11,16 +11,25 @@ Private leaderboard score: 0.889371
 
 Hardware specifications:
 2,3 GHz Intel Core i5 - 4 cores
+
 RAM 8Go
 
 Software specifications:
+
 MacOS Mojave 10.14.6
+
 python 3.7.0
+
 numpy 1.17.2
+
 pandas 0.25.1
+
 sklearn 0.21.3
+
 xgboost 0.90
+
 matplotlib 3.1.2
+
 seaborn 0.9.0
 
 
@@ -70,6 +79,8 @@ Finally, samples (shop, item) of seniority 0 are totally new in the catalogue. N
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # PROCEDURE TO GENERATE SUBMISSION FILE FROM RAW DATA
+
+*First untar the sales_train.csv.gz and test.csv.gz data files in data/raw.
 
 This solution uses the XGBRegressor from xgboost. The code can be found in the 'code' directory, all in notebooks. In order to reproduce the submission files from the raw data, all notebooks may be ran in the following order:
 
