@@ -2,6 +2,7 @@
 Solution to the Final project for "How to win a data science competition" Coursera course
 
 Public leaderboard score:  0.893321
+
 Private leaderboard score: 0.889371
 
 
