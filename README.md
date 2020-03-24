@@ -10,6 +10,7 @@ Private leaderboard score: 0.889371
 # HARDWARE / SOFTWARE SPECIFICATIONS
 
 Hardware specifications:
+
 2,3 GHz Intel Core i5 - 4 cores
 
 RAM 8Go
